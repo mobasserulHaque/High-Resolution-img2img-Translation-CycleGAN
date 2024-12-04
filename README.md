@@ -2,7 +2,7 @@
 
 ### Dataset_B: Domain B
 
-![Domain A](http://efrosgans.eecs.berkeley.edu/cyclegan/datasets)
+[Art Dataset Link](http://efrosgans.eecs.berkeley.edu/cyclegan/datasets)
 
 
 Download: `vangogh2photo.zip` and `monet2photo.zip`
